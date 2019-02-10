@@ -3,7 +3,7 @@ As a worker co-op, Loomio is collectively owned by its members, who are all equa
 
 **Decision-making**
 
-Members are the ultimate decision-makers for Loomio. While we often delegate decision-making, such as to diretors, coordinators, and leaders of work areas, all mandate traces back to the members. 
+Members are the ultimate decision-makers for Loomio. While we often delegate decision-making, such as to directors, coordinators, and leaders of work areas, all mandate traces back to the members. 
 
 Two important principles inform our decision-making processes: anyone affected by a decision should be able to participate in making it, and a person’s influence over a decision should be in proportion to the degree to which it affects them. 
 
@@ -33,7 +33,7 @@ This sometimes means making hard choices. In the worst-case scenario, this might
 
 Co-op members set the strategic direction and are expected to keep sufficiently up to date to participate in a meaningful way. It’s important that we’ve all got the context for well-informed decision-making. 
 
-The [Loomio Cooperative Constitution](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/constitution.html) is the legally-binding document that precisely defines the rights and responsibilities of membership. The constitution can only be changed by a special resolution of members (90% agreement).
+The [Loomio Cooperative Constitution](constitution.md) is the legally-binding document that precisely defines the rights and responsibilities of membership. The constitution can only be changed by a special resolution of members (90% agreement).
 
 Cooperative members have all the responsibilities of owners and shareholders, as well as being the core working staff.
 
@@ -61,17 +61,17 @@ We determine what proportion of the surplus is reinvested into the co-op, what p
 
 **Loomio Points**
 
-We track unpaid work in the co-op with a system called [Loomio Points](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/loomio_points.html). This applies to members and non-members alike, and is separate to distribution of surplus. Membership status does not affect Loomio Points.
+We track unpaid work in the co-op with a system called [Loomio Points](loomio_points.html). This applies to members and non-members alike, and is separate to distribution of surplus. Membership status does not affect Loomio Points.
 
 #### Entering Membership
 
-The first step toward membership is getting employed by the co-op, according to the [Employment Process](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/employment.html). Working on Loomio on an ongoing basis, in a long-term agreement with the co-op, puts you on the *membership pathway*. (We also work with short-term contractors who are not on the membership pathway).
+The first step toward membership is getting employed by the co-op, according to the [Employment Process](employment.html). Working on Loomio on an ongoing basis, in a long-term agreement with the co-op, puts you on the *membership pathway*. (We also work with short-term contractors who are not on the membership pathway).
 
 Working for the cooperative is called *"transacting"*, according to our constitution. This technical term is important to ensure Loomio is owned by its worker-members. The decision point about membership comes after someone has worked with the co-op approximately 1 year.
 
 **1: Confirm eligability **
 
-Worked (*"transacted"*) in the last 12 months, and is likely to work in the next 12 (as determined by the individual and the [employment panel](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/employment.html))
+Worked (*"transacted"*) in the last 12 months, and is likely to work in the next 12 (as determined by the individual and the [employment panel](employment.html))
 
 Worker is committed to fulfilling member responsibilities
 
@@ -83,7 +83,7 @@ The members decide to extend and invitation to membership to the worker.
 
 **3: Board confirms eligibility**
 
-The Loomio Board of Directors is responsible for making sure that the shareholding of Loomio is held by eligable worker-members who meet the criteria set out in our constitution. The Board confirms this for specific individuals at the recommendation of the members.
+The Loomio Board of Directors is responsible for making sure that the shareholding of Loomio is held by eligible worker-members who meet the criteria set out in our constitution. The Board confirms this for specific individuals at the recommendation of the members.
 
 **4: The worker accepts the invitation**
 

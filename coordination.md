@@ -1,6 +1,6 @@
 # Coordination at Loomio
 
-### Context
+## Context
 
 As a worker-owned cooperative committed to decentralising decision-making, Loomio does not have a traditional managerial hierarchy. However, a big picture perspective of how all the parts of the organisation and different work areas fit together, and how they intersect with the budget and longer term strategy, is essential to operational effectiveness and overall success of our mission. At Loomio, this role is called a Coordinator.
 
@@ -10,13 +10,13 @@ Our guiding principle for coordination is **"dynamic hierarchies by consent"**.
 
 **"Dynamic"**, because these roles and internal structures are constantly evolving. We adapt them to meet the co-op’s needs responsively. Individuals rotate in and out of roles regularly. Internal structures are always up for discussion. We review all roles at least quarterly (although they may change less frequently).
 
-**"Consent"**, because ultimately all mandate and power traces back to the co-op membership - in others words, all of us together. 
+**"Consent"**, because ultimately all mandate and power traces back to the co-op membership - in others words, all of us together.
 
 A coordinator is not a "boss" or “manager” in the familiar sense. The role carries no more inherent authority than any other in the co-op. It’s simply focused in a different way, on synthesis, the spaces between, the overall picture, and the intersections of governance, planning, and execution.
 
 The role of coordinator carries some aspects of a senior management role, in that the board and the members delegate ensuring operational execution in the co-op. However, it’s distributed among multiple people, and ultimately accountable to the workers themselves. It also carries aspects of facilitation, support, and servant leadership.
 
-Mutually agreed structure for our work helps us to be more productive and happier. Loomio is committed to self-determination for workers. At the same time, we are keenly aware of the [Tyranny of Structurelessness](http://www.jofreeman.com/joreen/tyranny.htm). What we aim for instead is "Tyranny-less structures". 
+Mutually agreed structure for our work helps us to be more productive and happier. Loomio is committed to self-determination for workers. At the same time, we are keenly aware of the [Tyranny of Structurelessness](http://www.jofreeman.com/joreen/tyranny.htm). What we aim for instead is "Tyranny-less structures".
 
 ## The Role of the Coordinator
 
@@ -64,7 +64,9 @@ Exit
 
 ### Coordinator Responsibilities
 
-Please note that ‘responsibility’ means the coordinator is expected to make sure it gets done, not that they will do the work directly. Most of this work is delegated to other people or processes.
+Please note that "responsibility" means the coordinator is expected to make sure it gets done, not that they will do the work directly. Much of this work is delegated to other people or processes.
+
+* Report against the annual plan to Board & Members
 
 * Staffing decisions and hiring
 
@@ -80,11 +82,13 @@ Please note that ‘responsibility’ means the coordinator is expected to make 
 
     * Contract changes
 
-    * Visa applications
+    * Visa applications and coordination
 
     * Act as stewards for short term contractors
 
-* Connection to Board
+    * Manage leave
+
+* Board & Governance
 
     * Liability - board is responsible for certain things that the coordinators execute, so there needs to be a good link between them. One coordinator is named as having a special focus on the relationship with the Board.
 
@@ -96,13 +100,17 @@ Please note that ‘responsibility’ means the coordinator is expected to make 
 
     * Coordinators attend board meeting to the extent necessary
 
-* Set up conditions to enable operational delivery
+    * Maintain companies office responsibilities, such as share register, director changes, and annual report
 
-    * Can delegate to a process (such as agile sprints), structure (like working groups) or person, or simply support self-management emerging from the team if it’s working well
+    *  Manage company secretary
+
+* Create conditions to enable operational delivery
+
+    * Can delegate to a process (such as agile sprints), structure (like working groups) or person, or simply support self-management emerging from the team (if it’s working well). Coordinators make sure the system we're using is working.
 
     * Support operational delivery process development and quality improvements
 
-    * Raise flags to the membership, board, teams, or individuals / stewards if there are problems with operational accountability
+    * Raise flags to the membership, board, teams, or individuals / stewards if there are problems with operational accountability or delivery
 
 * Coordinate annual/quarterly strategic planning process
 
@@ -110,7 +118,13 @@ Please note that ‘responsibility’ means the coordinator is expected to make 
 
     * Synthesise, facilitate, report back, support decision-making 
 
-* Track membership
+    * Have one on one conversations as needed, to hear solutions and concerns
+
+    * Coordinate logistics and planning of retreats and away days
+
+    * Physical office management (lease, supplies, access, safety, mail)
+
+* Membership
 
     * Facilitate recommending new members when they reach that point in the pathway process
 
@@ -120,15 +134,11 @@ Please note that ‘responsibility’ means the coordinator is expected to make 
 
     * Flag any eligibility concerns to the board (member in situation where they can’t meet shareholder duties)
 
-    * Maintain accurate shareholding of Membership
+    * Maintain accurate and up to date shareholding
 
-* Report against the annual plan to Board and Members
+* Oversee budgeting, finances, and assets
 
-    * Coordinators reports currently go out monthly (but the frequency is not specifically defined here) - reporting on an as-needed basis
-
-* Oversee budgeting and finances
-
-    * Coordination and continuous financial operations
+    * Coordination of continuous financial operations
 
     * Ensure accuracy of record keeping
 
@@ -138,11 +148,34 @@ Please note that ‘responsibility’ means the coordinator is expected to make 
 
     * Banking oversight
 
-    * Manage company secretary
+    * Currency management for international accounts
 
     * Approve payments
 
     * Shareholding and investment paperwork
+
+    * Manage expense claims
+
+    * Invoicing for Services contracts and special client arrangements
+
+    * Manage bookkeeper
+
+    * Track Loomio points
+
+    * Manage financial tools and systems
+
+    * Payroll management
+
+    * Managing Loomio's assets, including IP and physical
+
+* Other
+
+    * Facilitate policy development and implementation
+
+    * Catch the things planning doesn't account for or that fall between working groups
+
+    * Making sure operational "must-do"s are actioned
+ 
 
 
 
